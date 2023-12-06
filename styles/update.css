@@ -1,0 +1,190 @@
+HTML {
+  background-color: beige;
+  font-family: Playfair Display;
+  overflow-x:hidden;
+}
+.header{
+  position: sticky;
+  background-color: #2f2f2f;
+  z-index: 1;
+  top:-10px;
+  left: -10px;
+  right: 10px;
+  width: calc(100% + 19px);
+  display: block;
+  margin-left: -10px;
+  margin-top: -10px;
+}
+#pic1 {
+  position: absolute;
+  top: 160px;
+  margin-left: -150px;
+  width: 570px;
+}
+#pic2 {
+  position: absolute;
+  top: 190px;
+  width: 520px;
+  left: calc(75%);
+}
+.signupform {
+  background-color: #2f2f2f;
+  position: relative;
+  width: calc(60%);
+  height: 540px;
+  left: calc(20%);
+  border-radius: 12px;
+}
+#msg1 {
+  position: relative;
+  left: calc(30%);
+  display: inline-block;  
+  color: beige;
+  font-size: calc(187.5%);
+  display: block;
+}
+#fill1 {
+  position: relative;
+  left: calc(9.3%);
+}
+#fill2 {
+  position: relative;
+  left: calc(17.7%);
+}
+
+#fill3 {
+  position: relative;
+  left: calc(9.3%);
+}
+
+#fill4 {
+  position: relative;
+  left: calc(17.7%);
+}
+
+#fill5 {
+  position: relative;
+  left: calc(9.3%);
+}
+
+#fill6 {
+  position: relative;
+  left: calc(17.7%);
+}
+
+#fill7 {
+  position: relative;
+  left: calc(9.3%);
+}
+
+#fill8 {
+  position: relative;
+  left: calc(17.7%);
+}
+
+#fill9 {
+  display: block;
+  position: relative;
+  left: calc(43%);
+}
+
+.box {
+  font-size: 20px;
+  background-color: beige;
+  border-radius: 5px;
+  margin: 15px;
+  width: 300px;
+  height: 50px;
+  font-family: Playfair Display!important;
+  color: #2f2f2faf;
+  margin:1rem 0;
+  width: 35%;
+}
+
+.btn{
+  position: relative;
+  height: 50px;
+  box-shadow: 5px 5px rgb(210,210,210);
+  background-color: beige;
+  border-radius: 10px;
+  border: 0px;
+  transition: 0.5s;
+  color:#2f2f2f;
+  font-size: calc(165%);
+  font-family: Playfair Display;
+}
+
+.btn:hover{
+  box-shadow: 0px 0px;
+  background-color: black;
+  color:aliceblue;
+}
+#msgr{
+  background-color: tomato;
+}
+#msg{
+  background-color: lawngreen;
+}
+#msg, #msgr{
+  border-radius: 5px;
+  margin: auto;
+  position: relative;
+  top:5px;
+  margin-top: 25px;
+  margin-bottom: -25px; 
+  width: 300px;
+  height: 50px;
+  font-family: Playfair Display !important;
+  font-size: 100%;
+  transition: 0.5s;
+  justify-content: center;
+  align-content:center ;
+  display: grid !important;
+  color: black;
+}
+#thefooter{
+  color:#fbfbfb;
+  background-color: #2f2f2f;
+  position: relative;
+  height: 160px;
+  left: -8px;
+  right: 10px;
+  width: calc(100% + 19px);
+  display: block;
+  margin-bottom: -15px;
+
+}
+.fol{ 
+  /* bottom:15px; */
+  font-size:15px ;
+position: relative;
+left:1100px;
+}
+.imag
+{
+  position: relative;
+ right: 15px; 
+}
+.textface{
+  position: relative;
+bottom: 15px;
+}
+.textinsta{
+  position: relative;
+bottom: 15px;
+right:28px;
+}
+.about
+{
+display: inline-block;
+color:#fbfbfb;
+position: relative;
+left:15px;
+top:120px;
+font-size: 20px;
+z-index: 1;
+}
+.trade{
+position: relative;
+top:20px;
+}

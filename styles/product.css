@@ -1,0 +1,113 @@
+HTML {
+    background-color: beige;
+    font-family: Playfair Display;
+    font-size: 62.5%;
+  }
+  .header{
+    background-color: #2f2f2f;
+    position:relative;
+    top:-10px;
+    left: -10px;
+    right: 10px;
+    width: calc(100% + 19px);
+    display: block;
+  }
+  #imag{
+    left:150px;
+    display: inline-block;
+    position: relative;
+  }
+.desc{
+  font-size: 30px;
+  top:-350px;
+     left:150px;
+    display: inline-block;
+    position: relative; 
+}
+#msg{
+  background-color: limegreen;
+  border-radius: 5px;
+  margin: auto;
+  top: 35px;
+  margin-bottom: -25px; 
+  width: 300px;
+  height: 50px;
+  font-family: Playfair Display !important;
+  font-size: 190%;
+  transition: 0.5s;
+  justify-content: center;
+  align-content:center ;
+   display: grid !important;
+  color: black;
+  
+}
+#thefooter{
+  color:#fbfbfb;
+  background-color: #2f2f2f;
+  position: relative;
+  height: 160px;
+  left: -8px;
+  right: 10px;
+  width: calc(100% + 19px);
+  display: block;
+  margin-bottom: -15px;
+
+}
+.fol{ 
+  /* bottom:15px; */
+  font-size:15px ;
+position: relative;
+left:1100px;
+}
+.imag
+{
+  position: relative;
+ right: 15px; 
+}
+.textface{
+  position: relative;
+bottom: 15px;
+}
+.textinsta{
+  position: relative;
+bottom: 15px;
+right:28px;
+}
+.about
+{
+display: inline-block;
+color:#fbfbfb;
+position: relative;
+left:50px;
+top:120px;
+font-size: 20px;
+z-index: 2;
+}
+.trade{
+position: relative;
+top:20px;
+  font-size:20px;
+}
+
+.style7{
+  background-color:#2f2f2f;
+  position: relative;
+top:-300px;
+  right:-1000px;
+  font-size: 30px;
+width: 200px;
+height: 200px;
+z-index: 10;
+display: flex;
+text-align: center;
+  align-items: center;
+  justify-content: center;
+border-radius: 10px;
+}
+.button{
+  color:white;
+}
+#oos {
+  background-color: tomato;
+  border-radius: 4px;
+}

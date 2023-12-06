@@ -1,0 +1,147 @@
+HTML {
+    background-color: rgb(210,210,210);
+    font-family: Playfair Display;
+    background-image: url(../images/welcome.png);
+    min-width: 1080px;
+    /* overflow-y: hidden; */
+    overflow-x:hidden;
+    scrollbar-width: 0px;
+  }
+  .header{
+    position: sticky;
+    background-color: #2f2f2f;
+z-index: 1;
+    top:-10px;
+    left: -10px;
+    right: 10px;    
+    width: calc(100% + 19px);
+    display: block;
+    margin-left: -10px;
+    margin-top: -10px;
+  }
+  .wel{
+    color:#fbfbfb;
+    position: relative;
+    left:500px;
+    top:80px;
+background-color: #2f2f2f;
+border-radius: 10px;
+border: 0px;
+font-size: 70px;
+text-align: center;
+width: 500px;
+height: 100px;
+overflow-x: hidden;
+overflow-y: hidden;
+  }
+  #shop{
+font-size:55px ;
+text-align: center;
+position: relative;
+bottom: -130px;
+left:660px;
+transition: 0.5s;
+    color:#2f2f2f;
+    font-size:30px;
+    font-family: Playfair Display;
+    box-shadow: 5px 5px rgb(210,210,210);
+    background-color: beige;
+    border-radius: 10px;
+    border: 0px;
+    width: 200px;
+    height: 100px;
+   
+  }
+  #shop:hover{
+    box-shadow: 0px 0px;
+    background-color: black;
+    color:aliceblue;
+  }
+  #logg{
+    position: fixed;
+    z-index: 2;
+    left: 92%;
+    top:6%;
+    width: 90px;
+    height: 50px;
+    box-shadow: 5px 5px rgb(210,210,210);
+    background-color: beige;
+    border-radius: 10px;
+    border: 0px;
+    transition: 0.5s;
+    color:#2f2f2f;
+    font-size: calc(165%);
+    font-family: Playfair Display;
+   }
+   #logg:hover{
+    box-shadow: 0px 0px;
+    background-color: black;
+    color:aliceblue;
+   }
+   #registerr{
+    position: fixed;
+    z-index: 2;
+    left: 84%;
+    top:6%;
+    width: 90px;
+    height: 50px;
+    box-shadow: 5px 5px rgb(210,210,210);
+    background-color: beige;
+    border-radius: 10px;
+    border: 0px;
+    transition: 0.5s;
+    color:#2f2f2f;
+    font-size: calc(165%);
+    font-family: Playfair Display;
+   }
+   #registerr:hover{
+    box-shadow: 0px 0px;
+    background-color: black;
+    color:aliceblue;}
+   #thefooter{
+        color:#fbfbfb;
+        background-color: #2f2f2f;
+        position: relative;
+        height: 160px;
+        left: -8px;
+        right: 10px;
+        width: calc(100% + 19px);
+        display: block;
+        margin-top: 50%;
+        margin-bottom: -15px;
+   
+    }
+    .fol{ 
+        /* bottom:15px; */
+        font-size:15px ;
+      position: relative;
+      left:1100px;
+    }
+    .imag
+    {
+        position: relative;
+       right: 15px; 
+    }
+    .textface{
+        position: relative;
+    bottom: 15px;
+    }
+    .textinsta{
+        position: relative;
+    bottom: 15px;
+    right:28px;
+    }
+.about
+{
+    display: inline-block;
+    color:#fbfbfb;
+    position: relative;
+    left:15px;
+   top:875px;
+    font-size: 20px;
+    z-index: 1;
+}
+.trade {
+  position: relative;
+  top: 10px;
+}
