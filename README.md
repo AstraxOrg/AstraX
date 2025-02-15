@@ -1,0 +1,1 @@
+AstraX is a web-based application made with Xampp and uses native PHP for backend. It is made solely for learning purposes. The website allows users to browse and purchase clothes from various brands and categories. It has a user-friendly interface and users can also filter products and add/remove them from cart.
